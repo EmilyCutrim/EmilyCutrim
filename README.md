@@ -1,7 +1,5 @@
- # 😺 Emily Keren
-
+# 😺 Emily Keren
 **`Engenheira de Software Backend`**
-
 Me chamo Emily Keren Cutrim Silverio, tenho 23 anos e sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. 
 
 
@@ -31,7 +29,6 @@ Me chamo Emily Keren Cutrim Silverio, tenho 23 anos e sou natural do Distrito Fe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
-
 <img 
     align="left" 
     alt="JQuery" 
@@ -49,7 +46,13 @@ Me chamo Emily Keren Cutrim Silverio, tenho 23 anos e sou natural do Distrito Fe
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/><br/><br/><div style="clear: both;"></div>
 
-<p align="center">
-  <img src="https://ibb.co/Z6S9c1rY" alt="Emily Keren" width="800px">
-</p>
+<a href="https://ibb.co/Z6S9c1rY">
+  <img 
+    src="https://i.ibb.co/DDYdwgF8/Gemini-Generated-Image-uj67dluj67dluj67.png" 
+    alt="Gemini-Generated-Image-uj67dluj67dluj67" 
+    width="800px"
+    border="0"
+  >
+</a>
