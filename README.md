@@ -1,6 +1,7 @@
 # 😺 Emily Cutrim
-**`Engenheira de Software Backend`**
-Me chamo Emily Keren Cutrim Silverio, tenho 23 anos e sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. 
+**`Engenheira de Dados`**
+Olá!!! chamo Emily, tenho 23 anos, estou em transição de carreira de Nutrição para Tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília e recentemente me mudei para São Paulo. Tenho 2 cachorros, amo video-games, comidas e cultura Japonesa. 
+Siga-me para acompanhar meu desenvolvimento e uni-se a mim para colaborarmos em projetos juntos. 🌸
 
 
 ### 🤖 Linguagens e Tecnologias
